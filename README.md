@@ -1,5 +1,7 @@
 # LegionXBrowser
 
+#### Please look at Updates tab for latest annoucements.
+
 ## Description:
 
 *LegionXBrowser enables isolate browsing using Chrome, Firefox, Edge in cloud VMs. Patented next-gen technology stops 99.9% of malware from reaching endpoints. Executes browsers remotely via microvirtualization and proxies. Embeds machine learning and threat intel for hardened security. Encrypts browsing traffic end-to-end. Customizable policies allow access to approved sites. Delivers seamless browsing experience across devices. No endpoint agents required. True zero trust architecture. Unmatched prevention of zero-day and ransomware threats.*
@@ -20,5 +22,24 @@
 
 <code> Right Click on the link, and select open in kasm </code>
 
-### Done, with this you'll have a dissposable browser you like.
+## Prerequisites
 
+*Have an active user account*
+
+*Download the Kasm Workspace Plugin*
+
+## Demo Account
+
+*For Demo Account, please fill out the form:*
+
+
+## Demo
+
+
+
+## Disclaimer
+
+
+
+
+ 
