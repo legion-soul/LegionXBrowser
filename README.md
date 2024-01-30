@@ -32,13 +32,19 @@
 
 *For Demo Account, please fill out the form:*
 
+https://forms.office.com/r/BXiUehAXvC?origin=lprLink
+
 
 ## Demo
 
 
 
 ## Disclaimer
+*LegionXBrowser utilizes Kasm Workspaces technology to isolate browsing activity. Use of this software is governed by the Kasm Workspaces Privacy Policy and Terms of Service.*
 
+*LegionXBrowser is provided "as is" without warranty of any kind. Use at your own risk. The developers make no representations or guarantees regarding prevention of cyberthreats, malware infections, or other browsing risks. By using this software, you agree to hold harmless any associated developers or contributors from any potential damages connected to use of LegionXBrowser or the underlying Kasm Workspaces platform. Please use responsibly.*
+
+**Kasm Workspaces Privacy Policy: https://kasmweb.com/privacy\\_policy**
 
 
 
