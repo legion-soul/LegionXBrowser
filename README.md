@@ -36,7 +36,7 @@ https://forms.office.com/r/BXiUehAXvC?origin=lprLink
 
 
 ## Demo
-https://youtu.be/1mb835Qsx-8?si=Qm3KBsleoRgFkMaY
+https://wv8yv-my.sharepoint.com/:v:/g/personal/admin_theabhisheknaidu_site/EdQmXLa33OpKjwyMXanBOhIBdHerZAaU7rVlQt6qBE4SgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VnT1wD
 
 ## Disclaimer
 *LegionXBrowser utilizes Kasm Workspaces technology to isolate browsing activity. Use of this software is governed by the Kasm Workspaces Privacy Policy and Terms of Service.*
